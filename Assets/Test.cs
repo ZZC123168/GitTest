@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class Test : MonoBehaviour
 {
-    private string str = "Second";
+    private string str = "Third";
     void Start()
     {
         
